@@ -1,59 +1,43 @@
-<h1 align="center">👋 Hi, I'm Shelter Chipangura</h1>
-<p align="center">✨ Tech enthusiast | Web Developer | AI Explorer | Public Speaker</p>
+# 👋 Hey, I'm Shelter Chipangura  
 
-<p align="center">
-  <a href="mailto:noelanischipa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
-  <a href="https://www.linkedin.com/in/shelter-chipangura-1390352a1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-</p>
+💻 Developer & Founder of [Arbour Digital Collective](https://www.arbourdigitalcollective.site)  
+🌍 Partnering with businesses worldwide to design and build standout digital experiences  
 
 ---
 
-### 🚀 About Me
-
-- 🌐 Web dev nerd with a growing love for **AI and smart tech**
-- 🌱 Currently learning **JavaScript** and improving my front-end skills
-- 🧠 Passionate about turning **ideas into impactful solutions**
-- 💡 Obsessed with clean UI, and building tools that help people thrive
-
----
-
-### 🤝 Open to Collaborate On
-
-- 🔥 Exciting **web development projects**
-- 🤖 **AI-powered applications**
-- 🛠️ **Productivity tools** that make a difference
+### 🛠️ Tech I Work With
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![Database](https://img.shields.io/badge/Database_Management-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)  
 
 ---
 
-### 📬 Reach Out
-
-- 📧 [noelanischipa@gmail.com](mailto:noelanischipa@gmail.com)
-- 🔗 [LinkedIn – Shelter Chipangura](https://www.linkedin.com/in/shelter-chipangura-1390352a1/)
-
----
-
-### ⚡ Quick Facts
-
-- 👩‍💻 **Pronouns**: She/Her  
-- 🎤 **Fun Fact**: I love **public speaking** and making complex ideas engaging and easy to understand
+### 🤝 Soft Skills
+- Team Leadership 👥  
+- Public Speaking 🗣️  
+- Strategic Planning 📈  
+- Conflict Management & Governance ⚖️  
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S-Chipangura&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-Chipangura&theme=radical" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Chipangura&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+### 📌 About Me
+- I build **clean, functional, and user-focused applications**  
+- Skilled in both **web development and desktop apps (WPF / .NET)**  
+- Passionate about **problem-solving and turning ideas into working products**  
+- Outside of coding: tennis, books, and loving life  
 
 ---
 
-> *“Code is the closest thing we have to magic — let's build something amazing.”* 🚀
+### 🌐 Connect With Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.arbourdigitalcollective.site)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com](https://www.linkedin.com/in/shelter-chipangura-1390352a1/))  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27846655702)  
 
+---
+✨ *Building simple things that make a difference.*  
