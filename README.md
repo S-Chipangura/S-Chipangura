@@ -1,7 +1,6 @@
 # 👋 Hey, I'm Shelter Chipangura  
 
-💻 Developer & Founder of [Arbour Digital Collective](https://www.arbourdigitalcollective.site)  
-🚀 My freelance web development initiative for practicing web design & helping local businesses/organizations
+💻 Freelance Web Designer & Aspiring Software Developer
 
 ---
 
