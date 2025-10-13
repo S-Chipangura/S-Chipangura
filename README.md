@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Shelter Chipangura  
 
-💻 Freelance Web Developer & Aspiring Software Developer
+💻 Freelance Web Developer & Aspiring Software Development Engineer
 
 ---
 
